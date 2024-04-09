@@ -1,8 +1,8 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #cf1a1a;
-    color: #3215b4;
+    background-color: #c21010;
+    color: #fff;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -28,13 +28,13 @@ body {
   }
   
   a {
-    color: #09e54b;
+    color: #d6cccd;
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s;
   }
   
   a:hover {
-    color: #b60e0e;
+    color: #dbc3c4;
   }
   
